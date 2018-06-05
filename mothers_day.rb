@@ -4,3 +4,7 @@
 
 ## Call your method below - use puts to see it in the terminal!
 
+def mothers_day
+  puts "Happy Mother's Day"
+  
+  
